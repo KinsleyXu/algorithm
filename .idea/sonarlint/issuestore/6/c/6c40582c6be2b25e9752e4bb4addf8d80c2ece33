@@ -1,0 +1,4 @@
+
+`
+java:S1858">"next" returns a string, there's no need to call "toString()".(ôĞÈÔùÿÿÿÿ8è—‡òƒ/
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(â²¡´8†ãòƒ/

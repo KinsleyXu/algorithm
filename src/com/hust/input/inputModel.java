@@ -2,6 +2,9 @@ package com.hust.input;
 
 import java.util.Scanner;
 
+/**
+ * @author xuxinyu06
+ */
 public class inputModel {
 
     /**
