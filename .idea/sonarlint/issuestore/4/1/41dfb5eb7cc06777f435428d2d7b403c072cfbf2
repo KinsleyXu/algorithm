@@ -1,7 +1,7 @@
 
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²ÚĞœ
 `
 java:S1858/">"next" returns a string, there's no need to call "toString()".(ôĞÈÔùÿÿÿÿ8äÉáñƒ/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²ÚĞœ
 Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ââÒŸşÿÿÿÿ8Š²²ñƒ/
 C
 java:S1168*"&Return an empty array instead of null.(¥¹ï8İ²„òƒ/
